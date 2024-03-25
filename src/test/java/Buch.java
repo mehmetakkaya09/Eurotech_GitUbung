@@ -6,6 +6,8 @@ public class Buch {
 
         System.out.println("Mehmet hat das erste Kapitel korrigiert");
 
+        System.out.println("Mehmet hat neue Veranderungen");
+
 
 
 
