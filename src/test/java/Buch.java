@@ -8,6 +8,8 @@ public class Buch {
 
         System.out.println("Mehmet hat neue Veranderungen");
 
+        System.out.println("Mehmet hat letzte Veranderungen");
+
 
 
 
