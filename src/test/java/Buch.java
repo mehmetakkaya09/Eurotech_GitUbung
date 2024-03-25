@@ -10,6 +10,8 @@ public class Buch {
 
         System.out.println("Mehmet hat letzte Veranderungen für Konflikt");
 
+        System.out.println("new");
+
 
 
 
