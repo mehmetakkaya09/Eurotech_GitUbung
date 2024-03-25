@@ -8,7 +8,9 @@ public class Buch {
 
         System.out.println("Mehmet hat neue Veranderungen");
 
-        System.out.println("Sumeyra hat letzte Veranderungen für Konflikt");
+        System.out.println("Mehmet hat letzte Veranderungen für Konflikt");
+
+        System.out.println("new");
 
 
 
